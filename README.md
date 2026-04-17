@@ -2,18 +2,17 @@
 
 # 👨‍💻 Luiz Felipe Nunes
 
-🚀 Desenvolvedor em formação | React | JavaScript | Foco em Front-End
+🚀 Desenvolvedor Front-End em evolução | React | JavaScript
 🔥 Construindo disciplina, código e resultados todos os dias
 
 ---
 
 ## 🧠 Sobre mim
 
-* 🎓 Estudante de Sistemas de Informação (IBMR)
+* 🎓 Estudante de Sistemas de Informação
 * 💻 Focado em desenvolvimento Front-End com React
-* 🚀 Buscando minha evolução para o primeiro emprego como dev
 * 🔥 Criador do projeto **Focus Hard**
-* 📈 Evoluindo diariamente com projetos reais e prática constante
+* 📈 Evolução contínua através de projetos práticos
 
 ---
 
@@ -45,34 +44,39 @@
 ## ⚡ Especialidades
 
 * ⚛️ Desenvolvimento com React
-* 🧠 Lógica de programação e resolução de problemas
 * 🎯 Criação de interfaces modernas
 * 📦 Versionamento com Git e GitHub
-* 🚀 Construção de projetos práticos
+* 🚀 Desenvolvimento baseado em projetos
+
+---
+
+## 🔥 Projeto em destaque
+
+### 💪 Focus Hard
+
+Projeto voltado para disciplina, produtividade e mentalidade de alta performance.
+
+> "Disciplina constrói liberdade."
 
 ---
 
 ## 📊 Estatísticas
 
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=nunes-felipe\&show_icons=true\&theme=tokyonight)
-
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=nunes-felipe\&layout=compact\&theme=tokyonight)
-
----
-
-## 🔥 Projetos em destaque
-
-* 🔥 Focus Hard — disciplina e produtividade
-* 💻 Projetos em React (em evolução)
-* 🧠 Estudos práticos de JavaScript
+![JavaScript](https://img.shields.io/badge/JavaScript-Intermediário-yellow)
+![React](https://img.shields.io/badge/React-Em%20Evolução-blue)
+![HTML](https://img.shields.io/badge/HTML-Avançado-orange)
+![CSS](https://img.shields.io/badge/CSS-Intermediário-blue)
 
 ---
 
 ## 📫 Contato
 
-* 📧 [tech.felipex@gmail.com](mailto:tech.felipex@gmail.com)
-* 📱 Instagram: @tech.felipex
+* 📧 [luizfelipenunes16@gmail.com](mailto:luizfelipenunes16@gmail.com)
+* 📸 Instagram: @tech.felipex
 
 ---
 
-> "Disciplina constrói liberdade."
+## 🚀 Mentalidade
+
+> Sem disciplina, não existe evolução.
+> Execução vence motivação.
