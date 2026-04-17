@@ -48,15 +48,6 @@
 * 🚀 Desenvolvimento baseado em projetos
 
 ---
-
-## 🔥 Projeto em destaque
-
-### 💪 Focus Hard
-
-Projeto voltado para disciplina, produtividade e mentalidade de alta performance.
-
-> "Disciplina constrói liberdade."
-
 ---
 
 ## 📊 Estatísticas
@@ -80,7 +71,3 @@ Projeto voltado para disciplina, produtividade e mentalidade de alta performance
 
 ---
 
-## 🚀 Mentalidade
-
-> Sem disciplina, não existe evolução.
-> Execução vence motivação.
