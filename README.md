@@ -66,6 +66,11 @@ Projeto voltado para disciplina, produtividade e mentalidade de alta performance
 ![HTML](https://img.shields.io/badge/HTML-Avançado-orange)
 ![CSS](https://img.shields.io/badge/CSS-Intermediário-blue)
 
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=nunes-felipe\&show_icons=true\&theme=tokyonight)
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=nunes-felipe\&layout=compact\&theme=tokyonight)
+
+
 ---
 
 ## 📫 Contato
